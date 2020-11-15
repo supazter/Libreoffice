@@ -1,6 +1,0 @@
-Karpeta honetan Hedapenak sartuko ditugu
-
-hobelex_libreoffice.oxt
-gida.oxt
-cim.oxt
-udal_Hiztegiak.oxt
