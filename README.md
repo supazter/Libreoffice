@@ -18,9 +18,11 @@ Mementuz hedapen bakarra sartu dut. Tresna barra txiki bat da. Euskaraz eta gazt
 
 Proiektu hau udaletxe batera lanean ari nintzela suertau zen eta honako hau idatzi nuen:
 
-[Link](https://www.supazter.eus/2012/02/18/software-librea-erakunde-publikoetan-i/)
-[Link](https://www.supazter.eus/2012/04/06/software-librea-erakunde-publikoetan-ii-thunderbird-eta-exchange-2003/)
-[Link](https://www.supazter.eus/2012/11/12/software-librea-erakunde-publikoetan-iii-libreoffice/)
+https://www.supazter.eus/2012/02/18/software-librea-erakunde-publikoetan-i/
+
+https://www.supazter.eus/2012/04/06/software-librea-erakunde-publikoetan-ii-thunderbird-eta-exchange-2003/
+
+https://www.supazter.eus/2012/11/12/software-librea-erakunde-publikoetan-iii-libreoffice/
 
 Gero beste udaletxe batean proiektua hobetu eta aurrera eraman nuen
 
