@@ -1,0 +1,4 @@
+Erabilgarriak karpeta honetan sartu
+Vcredist 2012
+Vcredist 2015
+Java 8u131
