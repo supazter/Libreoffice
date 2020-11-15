@@ -1,0 +1,5 @@
+Libreoffice instalatzailea hemen sartuko dugu
+
+Libreoffice_5.4.0.msi
+Libreoffice_5.4.0_helppack_eu.msi
+Libreoffice_5.4.0_helppack_es.msi
