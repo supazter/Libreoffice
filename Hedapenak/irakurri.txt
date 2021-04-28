@@ -1,7 +1,4 @@
 Hedapenak hemen sartuko ditugu
 
-cim.oxt
-udal_hzitegiak
-hobelex
 
 
